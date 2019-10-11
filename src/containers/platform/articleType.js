@@ -1,0 +1,61 @@
+export default [{
+  lable: '首页',
+  value: 1
+}, {
+  lable: '娱乐-轰趴馆',
+  value: 2
+}, {
+  lable: '娱乐-KTV',
+  value: 3
+}, {
+  lable: '娱乐-棋牌',
+  value: 4
+}, {
+  lable: '娱乐-桌球/台球',
+  value: 5
+}, {
+  lable: '娱乐-茶馆/茶餐厅',
+  value: 6
+}, {
+  lable: '运动-篮球',
+  value: 7
+}, {
+  lable: '运动-足球',
+  value: 8
+}, {
+  lable: '运动-羽毛球',
+  value: 9
+}, {
+  lable: '运动-网球',
+  value: 10
+}, {
+  lable: '运动-乒乓球',
+  value: 11
+}, {
+  lable: '运动-游泳',
+  value: 12
+}, {
+  lable: '会议-酒店',
+  value: 13
+}, {
+  lable: '会议-会展中心',
+  value: 14
+}, {
+  lable: '会议-咖啡厅',
+  value: 15
+}, {
+  lable: '会议-其他',
+  value: 16
+}, {
+  lable: '住宿-酒店',
+  value: 17
+}, {
+  lable: '住宿-民宿/客栈/旅馆',
+  value: 18
+}, {
+  lable: '团建',
+  value: 19
+}, {
+  lable: '活动项目',
+  value: 20
+}]

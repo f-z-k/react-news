@@ -1,0 +1,92 @@
+export const merchantList = [{
+  path: '/project',
+  icon: 'el-icon-office-building',
+  name: '项目管理',
+  role: 4
+}, {
+  path: '/projectOrderList',
+  icon: 'el-icon-money',
+  name: '订单回款管理',
+  role: 5
+}, {
+  path: '/userInfoEdit',
+  icon: 'el-icon-postcard',
+  name: '信息管理',
+  role: 15
+}, {
+  path: '/userPwdEdit',
+  icon: 'el-icon-bank-card',
+  name: '密码管理',
+  role: 16
+}, {
+  path: '/projectOrder',
+  icon: 'el-icon-s-goods',
+  name: '下单',
+  role: 17
+}, {
+  path: '/projectTopOrder',
+  icon: 'el-icon-s-order',
+  name: '预订状态高级查询',
+  role: 18
+}, {
+  path: '/projectSetMoney',
+  icon: 'el-icon-coin',
+  name: '红包卡券',
+  role: 19
+}, {
+  path: '/projectUserManage',
+  icon: 'el-icon-user',
+  name: '子账号管理',
+  role: 20
+}, {
+  path: '/projectMember',
+  icon: 'el-icon-s-custom',
+  name: '会员权益',
+  role: 23
+}]
+export const platformList = [{
+  path: '/articleList',
+  icon: 'el-icon-edit-outline',
+  name: '图文编辑',
+  role: 7
+}, {
+  path: '/project',
+  icon: 'el-icon-office-building',
+  name: '项目管理',
+  role: 8
+}, {
+  path: '/examine',
+  icon: 'el-icon-view',
+  name: '审核商户',
+  role: 9
+}, {
+  path: '/examinePass',
+  icon: 'el-icon-circle-check',
+  name: '商户管理',
+  role: 10
+}, {
+  path: '/userManage',
+  icon: 'el-icon-user',
+  name: '员工管理',
+  role: 11
+}, {
+  path: '/dataCount',
+  icon: 'el-icon-box',
+  name: '数据统计',
+  role: 12
+}, {
+  path: '/findHelp',
+  icon: 'el-icon-search',
+  name: '帮我找',
+  role: 13
+}, {
+  path: '/projectSetMoney',
+  icon: 'el-icon-coin',
+  name: '通用红包',
+  role: 14
+}, {
+  path: '/feedBack',
+  icon: 'el-icon-document',
+  name: '意见反馈',
+  role: 22
+}]
